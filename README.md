@@ -1,6 +1,6 @@
 # Introduction
 
-This is my first Python real project. It's a bot that simply opens N instances of the Brave browser to a linked item on Amazon and buys it automatically.
+This is my first Python real project. It's a bot that uses Selenium and Webdrivers open N instances of the Brave browser to a linked item on Amazon and buys it automatically.
 If a user is not logged in, it will automatically fill the credentials and buy the item.
 
 # How it works
